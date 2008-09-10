@@ -1,0 +1,7 @@
+# /var/lib/denyhosts/allowed-hosts
+
+# localhost
+127.0.0.1
+
+# example.com hosts
+example.com
